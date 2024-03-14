@@ -1,2 +1,2 @@
-# communicationSecurity_ex2
+# Merkle Tree
 Merkle tree implementation in python.
